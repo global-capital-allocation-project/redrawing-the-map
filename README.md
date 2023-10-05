@@ -6,6 +6,7 @@ Matteo Maggiori, Stanford University Graduate School of Business (`maggiori@stan
 Brent Neiman, University of Chicago Booth School of Business (`brent.neiman@chicagobooth.edu`)  
 Jesse Schreger, Columbia Business School (`jesse.schreger@columbia.edu`)  
 
+*Note:* It is not recommended to download this repository as a ZIP archive using the "Download ZIP" button on GitHub. This is because when building the ZIP archive, GitHub does not include large files stored on Git LFS (Large File System) in full, but rather only pointers to them. To download the repository, please clone it via command line or using the GitHub desktop app. Alternatively, if you would like to download it as a ZIP file, please use the "ZIP" download link at [globalcapitalallocation.com/data](https://www.globalcapitalallocation.com/data).
 
 I. INTRODUCTION
 --------------
